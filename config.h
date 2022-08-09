@@ -15,7 +15,7 @@
 
 #define DEBOUNCE 5
 
-#define USE_SERIAL_PD2 
+#define SOFT_SERIAL_PIN D0 
 
 #define EE_HANDS
 #define SPLIT_MODS_ENABLE
